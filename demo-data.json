@@ -1,0 +1,92 @@
+[
+    {
+      "id": "QQDT",
+      "type": "STP",
+      "name": "PQySRiVBNH",
+      "country": "FRANCE",
+      "corporateName": "per_JCJPwLHIRY",
+      "businessName": "bn_abc",
+      "perimeter": "per_IAaFeICjuL"
+    },
+    {
+      "id": "BIVY",
+      "type": "STP",
+      "name": "UifuqCASqV",
+      "country": "UNITED STATE",
+      "corporateName": "per_rggjEZocsX",
+      "businessName": "bn_cef",
+      "perimeter": "per_bAySelGfiP"
+    },
+    {
+      "id": "WITW",
+      "type": "STP",
+      "name": "ZVMydraSgy",
+      "country": "UNITED KINGDOM",
+      "corporateName": "per_KdVHpIVrGC",
+      "businessName": "bn_xyz",
+      "perimeter": "per_UFNAFdyxrq"
+    },
+    {
+      "id": "VEIB",
+      "type": "STP",
+      "name": "CbRFjywGDW",
+      "country": "AUSTRALIA",
+      "corporateName": "per_VYCJnhxYWl",
+      "businessName": "bn_xxx",
+      "perimeter": "per_qXpBOJxgyV"
+    },
+    {
+      "id": "UAON",
+      "type": "STP",
+      "name": "zsuPcLURJr",
+      "country": "CHINA",
+      "corporateName": "per_RhfVNTGSqf",
+      "businessName": "bn_yyy",
+      "perimeter": "per_zHvzXoAiqE"
+    },
+    {
+      "id": "DHMW",
+      "type": "STP",
+      "name": "zCXjTqMxhl",
+      "country": "THAILAND",
+      "corporateName": "per_BTAEDUmQYt",
+      "businessName": "bn_zzz",
+      "perimeter": "per_xjzVRwLZyH"
+    },
+    {
+      "id": "XIFU",
+      "type": "STP",
+      "name": "IBshdGZzJQ",
+      "country": "VIETNAM",
+      "corporateName": "per_lnWzXJzSnH",
+      "businessName": "bn_azerty",
+      "perimeter": "per_DDyqlaSGDF"
+    },
+    {
+      "id": "QHFU",
+      "type": "PERLE",
+      "name": "TLwsoULOKV",
+      "country": "TURKEY",
+      "corporateName": "per_kOFaVDHGEB",
+      "businessName": "bn_qsdfgh",
+      "perimeter": "per_WCzTAasoRO"
+    },
+    {
+      "id": "CUKU",
+      "type": "PERLE",
+      "name": "JohaGtNHNr",
+      "country": "BRAZIL",
+      "corporateName": "per_FrNuzDjDzH",
+      "businessName": "bn_ascvde",
+      "perimeter": "per_CKuCItqgFi"
+    },
+    {
+      "id": "QVWO",
+      "type": "PERLE",
+      "name": "AKdmAqdBvq",
+      "country": "ITALY",
+      "corporateName": "per_QUvYsYbIam",
+      "businessName": "bn_pkol",
+      "perimeter": "per_oMMHQVWIiZ"
+    }
+  ]

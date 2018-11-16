@@ -1,0 +1,32 @@
+[
+  {
+    "key": "idStp",
+    "labelFr": "ID STP",
+    "labelEn": "ID STP"
+  },
+  {
+    "key": "idPerle",
+    "labelFr": "ID PERLE",
+    "labelEn": "ID PERLE"
+  },
+  {
+    "key": "corporateName",
+    "labelFr": "Raison Sociale",
+    "labelEn": "Corporate Name"
+  },
+  {
+    "key": "country",
+    "labelFr": "Nationalité",
+    "labelEn": "Country"
+  },
+  {
+    "key": "businessLine",
+    "labelFr": "Ligne Métier",
+    "labelEn": "Business Line"
+  },
+  {
+    "key": "perimeter",
+    "labelFr": "Périmètre",
+    "labelEn": "Perimeter"
+  }
+ ]
