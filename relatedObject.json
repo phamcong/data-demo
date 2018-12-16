@@ -1,0 +1,72 @@
+{
+	"metadata": {
+		"version": 4.5,
+		"type": "Object",
+		"generator": "Object3D.toJSON"
+	},
+	"geometries": [
+		{
+			"uuid": "9C66E10E-CCCB-4B0A-8DF6-F8CACD0AF81C",
+			"type": "IcosahedronGeometry",
+			"radius": 0.44,
+			"detail": 0
+		},
+		{
+			"uuid": "59F9D5A7-C289-4BD0-BD24-C35AC2759A6C",
+			"type": "IcosahedronGeometry",
+			"radius": 0.3,
+			"detail": 3
+		}],
+	"materials": [
+		{
+			"uuid": "A6B786CF-66DB-4F3D-8F57-2943E1526134",
+			"type": "MeshStandardMaterial",
+			"color": 16777215,
+			"roughness": 0,
+			"metalness": 0,
+			"emissive": 16777215,
+			"opacity": 0.5,
+			"transparent": true,
+			"depthFunc": 3,
+			"depthTest": true,
+			"depthWrite": true,
+			"wireframe": true
+		},
+		{
+			"uuid": "D714FAF4-225E-4E68-83EF-252965CF3461",
+			"type": "MeshStandardMaterial",
+			"color": 15073320,
+			"roughness": 0,
+			"metalness": 0,
+			"emissive": 15073320,
+			"depthFunc": 3,
+			"depthTest": true,
+			"depthWrite": true
+		}],
+	"object": {
+		"uuid": "11085A2B-588D-4A20-A48E-F9FBD75C7F8E",
+		"type": "Group",
+		"name": "Group",
+		"layers": 1,
+		"matrix": [1,0,0,0,0,1,0,0,0,0,1,0,-0.536895,0,0,1],
+		"children": [
+			{
+				"uuid": "918844B4-C1D1-4DB6-AB0A-AD3820361AE2",
+				"type": "Mesh",
+				"name": "Icosahedron",
+				"layers": 1,
+				"matrix": [1,0,0,0,0,1,0,0,0,0,1,0,3.559507,-0.1,0,1],
+				"geometry": "9C66E10E-CCCB-4B0A-8DF6-F8CACD0AF81C",
+				"material": "A6B786CF-66DB-4F3D-8F57-2943E1526134"
+			},
+			{
+				"uuid": "96B545F9-977D-4E79-8606-AFBD8DDE4862",
+				"type": "Mesh",
+				"name": "Icosahedron",
+				"layers": 1,
+				"matrix": [1,0,0,0,0,1,0,0,0,0,1,0,3.559507,-0.1,0,1],
+				"geometry": "59F9D5A7-C289-4BD0-BD24-C35AC2759A6C",
+				"material": "D714FAF4-225E-4E68-83EF-252965CF3461"
+			}]
+	}
+}
