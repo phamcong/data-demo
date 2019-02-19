@@ -95,6 +95,7 @@
     "gold": 6,
     "silver": 0,
     "bronze": 2,
-    "total": 8
+    "total": 8,
+    "callRecords": []
   }
 ]
